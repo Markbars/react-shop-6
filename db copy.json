@@ -1,0 +1,34 @@
+{
+    "goods": [
+        {
+            "image": "https://d12mivgeuoigbq.cloudfront.net/magento-media/catalog/category/Reclining_Furniture.png?w=200",
+            "id": 1,
+            "title": "chair",
+            "price": "11.99"
+        },
+        {
+            "image": "https://d12mivgeuoigbq.cloudfront.net/magento-media/catalog/category/Reclining_Furniture.png?w=200",
+            "id": 2,
+            "title": "couch",
+            "price": "15.99"
+        },
+        {
+            "image": "https://d12mivgeuoigbq.cloudfront.net/magento-media/catalog/category/Reclining_Furniture.png?w=200",
+            "id": 3,
+            "title": "seat",
+            "price": "133.99"
+        },
+        {
+            "image": "https://d12mivgeuoigbq.cloudfront.net/magento-media/catalog/category/Reclining_Furniture.png?w=200",
+            "id": 4,
+            "title": "bed",
+            "price": "18.99"
+        },
+        {
+            "image": "https://d12mivgeuoigbq.cloudfront.net/magento-media/catalog/category/Reclining_Furniture.png?w=200",
+            "id": 5,
+            "title": "glass",
+            "price": "110.99"
+        }
+    ]
+}
